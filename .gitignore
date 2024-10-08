@@ -1,0 +1,8 @@
+## Verzeichnisse
+venv
+
+# PNG Dateien
+*.png
+
+# ZSV Files
+zahlen.csv
